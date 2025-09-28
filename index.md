@@ -123,8 +123,4 @@
 
 11.3 Mailing Lists, IRC, and Forums
 
-11.4 Books and Tutorials on Yocto
-
-11.5 Commercial Support and Training Providers
-
 </details>
